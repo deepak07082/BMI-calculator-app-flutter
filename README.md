@@ -1,4 +1,4 @@
-### BMI_calculator
+# BMI_calculator
 
 Flutter based BMI calculator.
 
@@ -18,9 +18,9 @@ YouTube link:
 
 ![Screenshot_2020_10_03_00_22_22](https://user-images.githubusercontent.com/54774962/94986122-9e4d9b80-0579-11eb-802d-088312542a4e.jpg)
 
-# Inspiraition
+### Inspiraition
 
 ![Google Pixel 4, 4XL – 1](https://user-images.githubusercontent.com/54774962/94986177-2af85980-057a-11eb-93dc-87750993790b.png)
 
-Thanks DD.
+#### Thanks DD.
 
